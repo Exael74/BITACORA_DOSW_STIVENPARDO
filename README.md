@@ -47,7 +47,6 @@ Bitácora técnica para el seguimiento y documentación de los ejercicios, proye
   - Requerimiento detallado completo (Nombre, Descripción, Actor Principal, etc.)
   - Diagrama de casos de uso
   - Reglas de negocio
-- **Manual de Identidad del Estudiante**
 
 ### Semana 5: Agilismo y Planeación de Trabajo
 **Ubicación**: [src/main/java/dosw/bitacora/semana5_agilismo_planeacion/](src/main/java/dosw/bitacora/semana5_agilismo_planeacion/)
@@ -117,13 +116,6 @@ src/main/java/dosw/bitacora/
 2. Cada ejercicio está en su propia subcarpeta con nombre descriptivo
 3. Consulte el README.md de cada semana para información detallada
 4. Los archivos Java están organizados por tema y tipo de ejercicio
-
-## Estado del Proyecto
-- Estructura base completada
-- Semanas 1-2 migradas y organizadas
-- Semanas 3-5 preparadas para desarrollo
-- Documentación completa disponible
-
 ---
 
 **Fecha de última actualización**: Marzo 2026  
