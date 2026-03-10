@@ -1,0 +1,25 @@
+﻿package dosw.bitacora.corte1.semana1.streams.ejercicio2;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
+
+public class Ejercicio2 {
+    public static void main(String[] args) {
+        // Datos de entrada originales
+        List<String> frutas = Arrays.asList("uva", "manzana", "pera", "kiwi", "mandarina", "mora", "sandia");
+
+        // Procesamiento: palabras con mÃ¡s de 4 letras, a mayÃºsculas, y ordenadas
+        // alfabÃ©ticamente
+        List<String> frutasProcesadas = frutas.stream()
+                .filter(fruta -> fruta.length() > 4)
+                .map(String::toUpperCase)
+                .sorted()
+                .collect(Collectors.toList());
+
+        // Salida
+        System.out.println("Frutas originales: " + frutas);
+        System.out.println("Frutas procesadas (> 4 letras, mayÃºsculas, ordenadas): " + frutasProcesadas);
+    }
+}
+
