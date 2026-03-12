@@ -1,4 +1,4 @@
-﻿package dosw.bitacora.corte1.semana2_solid_patrones_parte1.ejercicio3_memento;
+package dosw.bitacora.corte1.semana2_solid_patrones_parte1.ejercicio3_memento;
 
 import java.util.Stack;
 

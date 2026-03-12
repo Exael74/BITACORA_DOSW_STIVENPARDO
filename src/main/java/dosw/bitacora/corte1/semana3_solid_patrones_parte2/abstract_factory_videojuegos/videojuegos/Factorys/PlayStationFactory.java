@@ -1,4 +1,4 @@
-﻿package dosw.bitacora.corte1.semana2_3.patrones.creacional.abstract_factory.videojuegos.Factorys;
+package dosw.bitacora.corte1.semana2_3.patrones.creacional.abstract_factory.videojuegos.Factorys;
 
 import dosw.bitacora.corte1.semana2_3.patrones.creacional.abstract_factory.videojuegos.AbstractProducts.Controller;
 import dosw.bitacora.corte1.semana2_3.patrones.creacional.abstract_factory.videojuegos.AbstractProducts.Game;

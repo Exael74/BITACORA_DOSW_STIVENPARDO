@@ -1,4 +1,4 @@
-﻿package dosw.bitacora.corte1.semana1.streams.ejercicio3;
+package dosw.bitacora.corte1.semana1.streams.ejercicio3;
 
 import java.util.Arrays;
 import java.util.List;

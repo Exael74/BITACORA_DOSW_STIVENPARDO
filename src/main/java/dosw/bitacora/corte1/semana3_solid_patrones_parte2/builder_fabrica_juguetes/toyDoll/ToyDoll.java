@@ -1,4 +1,4 @@
-﻿package dosw.bitacora.corte1.semana2_3.patrones.creacional.builder.toyDoll;
+package dosw.bitacora.corte1.semana2_3.patrones.creacional.builder.toyDoll;
 
 public class ToyDoll {
     private String head;

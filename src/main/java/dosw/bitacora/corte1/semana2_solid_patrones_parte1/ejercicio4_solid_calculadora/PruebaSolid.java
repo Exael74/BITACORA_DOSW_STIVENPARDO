@@ -1,4 +1,4 @@
-﻿package dosw.bitacora.corte1.semana2_solid_patrones_parte1.ejercicio4_solid_calculadora;
+package dosw.bitacora.corte1.semana2_solid_patrones_parte1.ejercicio4_solid_calculadora;
 
 public class PruebaSolid {
     public static void main(String[] args) {

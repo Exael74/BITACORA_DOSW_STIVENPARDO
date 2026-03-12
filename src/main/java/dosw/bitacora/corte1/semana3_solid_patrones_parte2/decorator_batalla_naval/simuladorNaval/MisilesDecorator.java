@@ -1,4 +1,4 @@
-﻿package dosw.bitacora.corte1.semana2_3.patrones.estructurales.decorator.simuladorNaval;
+package dosw.bitacora.corte1.semana2_3.patrones.estructurales.decorator.simuladorNaval;
 
 public class MisilesDecorator extends BaseShipDecorator {
 

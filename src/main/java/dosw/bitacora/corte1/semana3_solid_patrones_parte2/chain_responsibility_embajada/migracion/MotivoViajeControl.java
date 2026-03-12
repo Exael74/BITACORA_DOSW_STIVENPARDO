@@ -1,4 +1,4 @@
-﻿package dosw.bitacora.corte1.semana2_3.patrones.comportamiento.chainResponsability.migracion;
+package dosw.bitacora.corte1.semana2_3.patrones.comportamiento.chainResponsability.migracion;
 
 public class MotivoViajeControl extends ControlMigratorioHandler {
 

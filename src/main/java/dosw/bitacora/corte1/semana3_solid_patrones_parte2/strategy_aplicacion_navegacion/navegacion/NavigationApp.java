@@ -1,4 +1,4 @@
-﻿package dosw.bitacora.corte1.semana2_3.patrones.comportamiento.strategy.navegacion;
+package dosw.bitacora.corte1.semana2_3.patrones.comportamiento.strategy.navegacion;
 
 public class NavigationApp {
     private RouteStrategy routeStrategy;

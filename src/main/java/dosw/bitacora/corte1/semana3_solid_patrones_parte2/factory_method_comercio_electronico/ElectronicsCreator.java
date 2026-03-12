@@ -1,4 +1,4 @@
-﻿package dosw.bitacora.corte1.semana3_solid_patrones_parte2.factory_method_comercio_electronico;
+package dosw.bitacora.corte1.semana3_solid_patrones_parte2.factory_method_comercio_electronico;
 
 /**
  * Concrete Creator: Crea productos electrÃ³nicos

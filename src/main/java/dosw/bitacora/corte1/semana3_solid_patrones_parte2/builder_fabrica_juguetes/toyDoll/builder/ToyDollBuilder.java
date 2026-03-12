@@ -1,4 +1,4 @@
-﻿package dosw.bitacora.corte1.semana2_3.patrones.creacional.builder.toyDoll.builder;
+package dosw.bitacora.corte1.semana2_3.patrones.creacional.builder.toyDoll.builder;
 
 public interface ToyDollBuilder {
 

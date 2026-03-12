@@ -1,4 +1,4 @@
-﻿package dosw.bitacora.corte1.semana2_3.patrones.estructurales.compsite.store;
+package dosw.bitacora.corte1.semana2_3.patrones.estructurales.compsite.store;
 
 public class MainClass {
 

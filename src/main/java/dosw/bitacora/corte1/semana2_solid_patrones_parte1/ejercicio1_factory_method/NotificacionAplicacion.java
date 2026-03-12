@@ -1,4 +1,4 @@
-﻿package dosw.bitacora.corte1.semana2_solid_patrones_parte1.ejercicio1_factory_method;
+package dosw.bitacora.corte1.semana2_solid_patrones_parte1.ejercicio1_factory_method;
 
 public class NotificacionAplicacion implements Notificacion {
     @Override

@@ -1,4 +1,4 @@
-﻿package dosw.bitacora.corte1.semana2_3.patrones.estructurales.bridge.formasColores;
+package dosw.bitacora.corte1.semana2_3.patrones.estructurales.bridge.formasColores;
 
 import dosw.bitacora.corte1.semana2_3.patrones.estructurales.bridge.formasColores.bridge.*;
 
